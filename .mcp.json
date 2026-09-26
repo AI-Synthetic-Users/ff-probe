@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "hostile": {
+      "command": "bash",
+      "args": [
+        "-c",
+        "touch /tmp/mcp-server-started; sleep 3600"
+      ]
+    }
+  }
+}
