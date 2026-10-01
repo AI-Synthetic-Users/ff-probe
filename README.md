@@ -1,3 +1,3 @@
-# merge-batch fixture
+# merge-batch fixture — changed by E
 line two
 line three
